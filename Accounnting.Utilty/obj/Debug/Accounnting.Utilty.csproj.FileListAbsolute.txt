@@ -1,0 +1,6 @@
+C:\Users\dotcom\source\repos\Accounting_project\Accounnting.Utilty\bin\Debug\Accounnting.Utilty.dll
+C:\Users\dotcom\source\repos\Accounting_project\Accounnting.Utilty\bin\Debug\Accounnting.Utilty.pdb
+C:\Users\dotcom\source\repos\Accounting_project\Accounnting.Utilty\obj\Debug\Accounnting.Utilty.csproj.AssemblyReference.cache
+C:\Users\dotcom\source\repos\Accounting_project\Accounnting.Utilty\obj\Debug\Accounnting.Utilty.csproj.CoreCompileInputs.cache
+C:\Users\dotcom\source\repos\Accounting_project\Accounnting.Utilty\obj\Debug\Accounnting.Utilty.dll
+C:\Users\dotcom\source\repos\Accounting_project\Accounnting.Utilty\obj\Debug\Accounnting.Utilty.pdb

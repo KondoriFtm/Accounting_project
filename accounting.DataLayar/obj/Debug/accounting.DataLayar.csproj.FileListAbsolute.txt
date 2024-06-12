@@ -1,0 +1,14 @@
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\obj\Debug\accounting.DataLayar.csproj.AssemblyReference.cache
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\obj\Debug\accounting.DataLayar.csproj.CoreCompileInputs.cache
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\accounting.DataLayar.dll.config
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\accounting.DataLayar.dll
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\accounting.DataLayar.pdb
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\Accounting.ViewModel.dll
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\EntityFramework.dll
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\Accounting.ViewModel.pdb
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\EntityFramework.xml
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\obj\Debug\accounting.DataLayar.csproj.CopyComplete
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\obj\Debug\accounting.DataLayar.dll
+C:\Users\dotcom\source\repos\Accounting_project\accounting.DataLayar\obj\Debug\accounting.DataLayar.pdb
